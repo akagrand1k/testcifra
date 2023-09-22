@@ -1,6 +1,5 @@
 Запуск проекта;
-0. 
-composer install
+0. composer install
 npm install
 
 1. Настройка .env файла (прописать нужные credentials)
